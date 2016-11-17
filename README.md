@@ -21,6 +21,6 @@ $ npm install
 ``` $ npm start ``` to run the Node.js application REST API.
 
 
-To test your application, open your web browser and browse to http://localhost:5000/. You should see your application’s “Home” or “Default” page, which is the index.html file located in the public folder.
+To test your application, open your web browser and browse to ```http://localhost:5000/```. You should see your application’s “Home” or “Default” page, which is the index.html file located in the public folder.
 
-To test the REST API, Open your web browser and browse to http://localhost:5000/api/recipes. You should see a list of recipes displayed in JSON format.
+To test the REST API, Open your web browser and browse to ```http://localhost:5000/api/recipes```. You should see a list of recipes displayed in JSON format.
