@@ -3,7 +3,7 @@
 
 This application has two important responsibilities. First, it serves the files in the ```public``` folder as the root of your application. Second, it provides the REST API that your application will use for data persistence.
 
-## Getting started
+## Getting Started
 
 ### Setup
 ```
