@@ -1,5 +1,5 @@
 # spa
-> Treehouse - Project9 - Single Page App
+> Single Page App
 
 This application has two important responsibilities. First, it serves the files in the ```public``` folder as the root of your application. Second, it provides the REST API that your application will use for data persistence.
 
